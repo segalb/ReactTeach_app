@@ -12,7 +12,7 @@ import { Colors } from '../constants';
 import Users from '../../fakedata/users.json';
 
 
-// comment
+// comment qwewq
 
 class Profile extends Component {
   _logout = () => {

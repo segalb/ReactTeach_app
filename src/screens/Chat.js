@@ -6,6 +6,7 @@ import { GiftedChat } from 'react-native-gifted-chat';
 import Messages from '../../fakedata/messages.json';
 import Users from '../../fakedata/users.json';
 
+// one more comment
 class Chat extends Component {
   static navigationOptions = ({ navigation }) => {
     const chatId = navigation.state.params.id;
@@ -47,7 +48,7 @@ class Chat extends Component {
       })
     });
   }
-  
+
 
   _sendMessage = (messages) => {
     this.setState((previousState) => ({
