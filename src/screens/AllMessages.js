@@ -4,6 +4,7 @@ import { View, FlatList } from 'react-native';
 import { ChatItem } from '../components';
 
 // Fake data
+//comment
 import Messages from '../../fakedata/messages.json';
 import Users from '../../fakedata/users.json';
 
