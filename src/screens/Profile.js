@@ -11,6 +11,9 @@ import { Colors } from '../constants';
 
 import Users from '../../fakedata/users.json';
 
+
+// comment
+
 class Profile extends Component {
   _logout = () => {
     Alert.alert('// TODO: Make logout', 'Well this is awkward');
